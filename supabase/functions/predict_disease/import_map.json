@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "./xgb_25k_model.js": "./xgb_25k_model.js"
+  }
+}

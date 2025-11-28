@@ -1,0 +1,2 @@
+# Ignore processed data pickle files
+Data/processed/*.pkl

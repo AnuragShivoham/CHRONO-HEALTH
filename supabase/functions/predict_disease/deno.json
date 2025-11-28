@@ -1,0 +1,8 @@
+{
+  "tasks": {},
+  "compilerOptions": {
+    "lib": ["deno.ns", "dom"],
+    "allowJs": true
+  },
+  "importMap": "./import_map.json"
+}
